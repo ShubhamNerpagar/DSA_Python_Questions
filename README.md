@@ -1,6 +1,6 @@
 # DSA_Python_Questions
 
-🚀 Problem Solving Repository
+## 🚀 Problem Solving Repository
 Welcome to the Problem Solving Repository! 🎉 A collection of coding challenges to sharpen your skills and prepare for technical interviews. Whether you're a beginner or an experienced coder, there's something here for everyone! 💡
 
 📝 Topics Covered
