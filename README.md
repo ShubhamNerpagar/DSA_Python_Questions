@@ -27,11 +27,17 @@ Learn OOP concepts like classes, inheritance, and polymorphism.
 
 📁 Repo Structure
 /Pattern
+
 /Mathematics
+
 /String
+
 /Binary_Search
+
 /List_Array
+
 /2D_List
+
 /OOP
 
 
