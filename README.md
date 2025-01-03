@@ -26,7 +26,7 @@ Solve matrix problems like traversal and rotation.
 Learn OOP concepts like classes, inheritance, and polymorphism.
 
 📁 Repo Structure
-/Pattern \n
+/Pattern
 /Mathematics
 /String
 /Binary_Search
